@@ -5,7 +5,7 @@ a.dropdown-item {
 
 a.dropdown-item:hover {
     color: black;
-    background-color: white;
+    background-color: rgb(235, 248, 251);
 
 }
 
