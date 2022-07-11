@@ -1,0 +1,33 @@
+a.dropdown-item {
+    color: white;
+    font-weight: 400;
+}
+
+a.dropdown-item:hover {
+    color: black;
+    background-color: white;
+
+}
+
+a.btn.btn-info.d-block.my-3 {
+    width: fit-content;
+}
+
+
+
+#latestupdates {
+    background-color: rgb(226, 240, 244) !important;
+}
+
+#pricing {
+
+    background-color: rgb(226, 240, 244) !important;
+}
+
+.reviews {
+    background-color: rgb(226, 240, 244) !important;
+}
+
+#listrev {
+    background-color: white !important;
+}
